@@ -7,7 +7,7 @@ assignees: chuckha
 
 ---
 
-<!-- Delete this and any section that is not applicable to your bug. An incomplete bug report is better than a non-existent bug report -->
+<!-- Delete any section that is not applicable to your bug. An incomplete bug report is better than a non-existent bug report -->
 
 **Describe the bug**
 A clear and concise description of what the bug is.
